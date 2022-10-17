@@ -1,6 +1,5 @@
-# meghitung volume dan luas permukaan
+# meghitung volume dan luas permukaan prisma segitiga
 
-#menghitung volume prisma segitiga
 
 luas_alas     = int(input( "masukkan luas alas prisma:"))
 tinggi        = int(input("masukkan tinggi prisma:"))
